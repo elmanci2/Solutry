@@ -11,7 +11,7 @@
 
   Solutry is fully responsive IT agency website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href=""><strong>➥ Live Demo</strong></a>
+  <a href="https://elmanci2.github.io/Solutry/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
